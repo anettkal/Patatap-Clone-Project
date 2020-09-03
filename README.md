@@ -7,3 +7,6 @@ A simple clone of the Patatap app. By hitting keys on the keyboard, each key cor
 ## Content
 * Project was made for [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/ "Udemy")
 
+## Technology
+* Used [Paper.js]("paperjs.org/"Paper.js"), an open source vector graphics scripting framework.
+
