@@ -1,5 +1,5 @@
 # Patatap-Clone-Project
-A simple clone of the Patatap app. By hiting keys on the keyboard, each key corresponds to a sound that is played and a little animation. 
+A simple clone of the Patatap app. By hitting keys on the keyboard, each key corresponds to a sound that is played and a little animation. 
 
 ## Sound Source
 * [jonobr1 /Neuronal-Synchrony](https://github.com/jonobr1/Neuronal-Synchrony/tree/master/assets/A)
